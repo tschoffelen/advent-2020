@@ -1,6 +1,6 @@
 const input = require('./data/day6').trim().split("\n\n");
 
-// Part 1
+// Part 1π
 
 const uniqueYesAnswersPerGroup = (groupData) => {
   const answers = {};
